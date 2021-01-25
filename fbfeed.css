@@ -106,7 +106,7 @@ a
 {
     float: left;
     display: block;
-    background: none;
+    background: url(../img/sprite.png);
     background-position: 0px -187px;
     height: 14px;
     width: 14px;
